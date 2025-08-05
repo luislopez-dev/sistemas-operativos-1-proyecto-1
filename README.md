@@ -53,3 +53,9 @@ El simulador permite:
 3. pip install ttkbootstrap
 
 4. python main.py
+
+```
+
+## Demostración
+[screen-capture (4).webm](https://github.com/user-attachments/assets/47719600-7e37-4a80-ba9a-0a84b82e1568)
+
