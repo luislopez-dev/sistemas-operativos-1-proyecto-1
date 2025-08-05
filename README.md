@@ -1,8 +1,8 @@
-# Proyecto #1 del curso Sistemas Operativos 1
+# Proyecto #1 del curso Sistemas Operativos 1 - Grupo 3
 
 # Simulador de Gestión de Procesos en Memoria
 
-Este proyecto simula cómo un sistema operativo gestiona la ejecución de procesos en una memoria RAM limitada. Los procesos que no pueden ejecutarse por falta de memoria son puestos en cola de espera, y se ejecutan cuando hay recursos disponibles. Incluye una interfaz gráfica intuitiva con soporte para **tema oscuro (dark mode)**.
+Este proyecto simula cómo un sistema operativo gestiona la ejecución de procesos en una memoria RAM limitada. Los procesos que no pueden ejecutarse por falta de memoria son puestos en cola de espera, y se ejecutan cuando hay recursos disponibles. Incluye una interfaz gráfica intuitiva.
 
 ---
 
