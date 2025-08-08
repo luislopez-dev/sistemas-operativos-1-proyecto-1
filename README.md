@@ -1,4 +1,4 @@
-# Proyecto #1 del curso Sistemas Operativos 1 - Grupo 3
+# Proyecto #1 del curso Sistemas Operativos 1
 
 # Simulador de Gestión de Procesos en Memoria
 
